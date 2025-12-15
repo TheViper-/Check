@@ -691,7 +691,7 @@
       "id": "leg_001",
       "pattern": "login\\.microsoftonline\\.com",
       "description": "Official Microsoft Online login domain",
-      "confidence": 1.0
+      "confidence": 1
     },
     {
       "id": "leg_002",
@@ -739,7 +739,7 @@
         "https:\\/\\/*.bing.com/"
       ],
       "description": "Required domains in content-security-policy-report-only header",
-      "confidence": 1.0
+      "confidence": 1
     },
     {
       "id": "leg_006",
