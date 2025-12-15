@@ -38,7 +38,6 @@
   "exclusion_system": {
     "description": "Centralized exclusion system to prevent false positives on legitimate sites",
     "domain_patterns": [
-      "^https:\\/\\/[^/]*\\.durasupreme\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.cipp\\.app(/.*)?$",
       "^https:\\/\\/(.*\\.)?cyberdrain\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.cow\\.tech(/.*)?$",
@@ -55,6 +54,7 @@
       "^https:\\/\\/(?:[^/]*\\.)?zoom\\.us(/.*)?$",
       "^https:\\/\\/github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.durasupreme\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$"
     ],
     "context_indicators": {
